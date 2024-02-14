@@ -2,12 +2,14 @@
 
 template repo for semester documentation
 
-## Todo:
+Content:
 
-- [ ] Add a short description of this repos content.
-- [ ] Make sure to add a license to your project. https://choosealicense.com/
-- [ ] Make sure to publish your project via Netlify.com
-- [ ] Make sure to add your images to the `assets/images` folder and link them in your documentation.
+- [ ] Introduction
+- [ ] Algorithm
+- [ ] Perspectives - JavaScript
+- [ ] Webpage
+- [ ] Final project
+- [ ] Conclusion
 - [ ] MIT License
 
 Copyright (c) [2024] [KatjaMüller]
@@ -29,7 +31,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-## Hints
-
-- Don't reinvent the wheel. Use existing css libraries. Check out this list of classless css libraries: https://github.com/dbohdan/classless-css
